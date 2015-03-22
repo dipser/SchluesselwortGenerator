@@ -24,12 +24,15 @@ class CronSelect
   function setByCron($cron) {}
   function setByTime($time) {}
   function setByDate($date) { $this->setByTime( strtotime($date) ); }
-  function getRegexRepresentation() {}
+  function getRegexpRepresentation() {}
 }
 $cs = new CronSelect;
 $cs->setByDate('11.11.2015');
 
 
 
+
+
+// => SELECT * FROM tab WHERE cron REGEXP $cs->getRegexpRepresentation()
 
 ?>
