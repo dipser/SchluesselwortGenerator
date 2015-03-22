@@ -17,11 +17,17 @@ $selects = [
 ];
 
 
-
-
-
-// Regex
-$regex = '';
+class CronSelect
+{
+  private $cron = '';
+  function CronSelect() {}
+  function setByCron($cron) {}
+  function setByTime($time) {}
+  function setByDate($date) { $this->setByTime( strtotime($date) ); }
+  function getRegexRepresentation() {}
+}
+$cs = new CronSelect;
+$cs->setByDate('11.11.2015');
 
 
 
