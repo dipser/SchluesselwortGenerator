@@ -1,13 +1,17 @@
 <?php
 
 /**
- * Generiert Schlüsselwörter anhand einer HTML-Seite.
- * 
- * @author Aurelian Hermand, aurelian@hermand.de
- */
+* Generiert Schlüsselwörter anhand einer HTML-Seite.
+* 
+* @author Aurelian Hermand, aurelian@hermand.de
+* @version 1.0.0 - 19.04.2015 - ah - Initiales Skript
+*/
+
+//ini_set("display_errors", "1");
+//error_reporting(E_ALL);
 
 
-class SchlusselwortGenerator {
+class SchluesselwortGenerator {
   
 	/** URL der HTML-Webseite. */
 	private $url = '';
@@ -22,12 +26,12 @@ class SchlusselwortGenerator {
 	private $stopwords = array();
 	
 	/** Priorisierte Schlüsselwort-Liste. */
-	private $rankedKeywords = array();
+	private $ranked_keywords = array();
 	
 	/**
 	* Konstruktor.
 	*/
-	function SchlusselwortGenerator($url) {
+	function SchluesselwortGenerator($url) {
 		$this->url = $url;
 	}
   
@@ -51,19 +55,26 @@ class SchlusselwortGenerator {
 		}
 	}
 	
-	private function removeTagsWithContent($tagArray) {
+	/**
+	* Tags entfernen.
+	* @param String Tagname
+	*/
+	private function removeTagsCompletely($tagArray) {
 		foreach ($tagArray as $tag) {
-			$this->html = preg_replace('#<'.$tag.'(.*?)>(.*?)</'.$tag.'>#is', '', $this->html);
+			$this->html = preg_replace('#<'.$tag.'(>|\s.*?>)(.*?)</'.$tag.'>#is', ' ', $this->html);
 		}
 	}
 	
-	private function removeTagsWithDuplication() {
+	/**
+	* Bestimmte Taginhalt multiplizieren und Tags entfernen.
+	*/
+	private function removeTagsWithMultiplication() {
 		$special = array(
-			// TagText-TagAttribut => Duplikate
+			// TagText-TagAttribut => Multiplikate
 			'img-alt' => 3,
 			'img-title' => 4,
-			'a-title' => 10,
-			'a' => 10,
+			'a-title' => 5,
+			'a' => 5,
 			'h1' => 20,
 			'h2' => 9,
 			'h3' => 8,
@@ -78,43 +89,68 @@ class SchlusselwortGenerator {
 			'cite' => 2,
 			'blockquote' => 2
 		);
-		foreach ($special as $tag => $dups) {
+		foreach ($special as $tag => $multis) {
 			if (strpos($tag, '-') !== false) {
 				$split = explode('-', $tag);
 				$tag = $split[0];
 				$attr = $split[1];
-				$result = preg_replace('/<img[^>]*alt="([^"]*)"[^>]*>/', " $1 ", $result);
+				$this->html = preg_replace('#<'.$tag.'[^>]*'.$attr.'="([^"]*)"[^>]*>#i', str_repeat(' $1 ', $multis), $this->html);
 			} else {
-				
+				$this->html = preg_replace('#<'.$tag.'(>|\s.*?>)(.*?)</'.$tag.'>#is', str_repeat(' $2 ', $multis), $this->html);
 			}
+		}
+		$this->html = strip_tags($this->html);
+	}
+
+	/**
+	* HTML-Entitäten und bestimmte Zeichen entfernen.
+	*/
+	private function removeSigns() {
+		$this->html = preg_replace('/&#?[a-z0-9]{2,8};/i', ' ', $this->html);
+		$this->html = str_replace(array('.', '&', ':', ',', '„', '“', '»', '«', ' - ', ' – '), ' ', $this->html);
+	}
+
+	/**
+	* Stoppwörter entfernen.
+	*/
+	private function removeStopwords() {
+		$this->html = preg_replace('/\b('.implode('|', $this->stopwords).')\b/i', '', $this->html);
+	}
+	
+	/**
+	* Array mit Anzahl erstellen.
+	*/
+	private function makeRankedKeywordList() {
+		$this->html = preg_replace('/\s+/', ' ', $this->html);
+		$this->html = trim($this->html);
+		$keywords = explode(' ', $this->html);
+		foreach ($keywords as $k) {
+			if ( !isset($this->ranked_keywords[$k]) ) { $this->ranked_keywords[$k] = 1; }
+			$this->ranked_keywords[$k] += 1;
 		}
 	}
 	
-	private function makeRankedKeywords() {
-		
-	}
-	
-	private function removeStopwords() {
-		
-	}
-	
+	/**
+	* Schlüsselwörter erstellen.
+	*/
 	function keywords() {
 		
 		// URL einlesen
 		$this->fetch();
 		
 		// HTML Bereinigungen
-		$this->removeTagsWithContent(array('head', 'script', 'nav', 'footer'));
-		$this->removeTagsWithDuplication();
+		$this->removeTagsCompletely(array('head', 'script', 'nav', 'footer'));
+		$this->removeTagsWithMultiplication();
+		$this->removeSigns();
 		
-		// Umwandlung in eine priorisierte Schlüsselwort-Liste
-		$this->makeRankedKeywords();
-		
-		// Keywordliste bereinigen
+		// Text bereinigen
 		$this->removeStopwords();
+
+		// Umwandlung in eine priorisierte Schlüsselwort-Liste
+		$this->makeRankedKeywordList();
 		
 		
-		return $this->rankedKeywords;
+		return $this->ranked_keywords;
 	}
 }
 
@@ -122,15 +158,12 @@ class SchlusselwortGenerator {
 
 // Beispiel
 if ( __FILE__ == $_SERVER['SCRIPT_FILENAME'] ) {
-	
-	$stopwords = array('aber', 'als', 'am', 'an', 'auch', 'auf', 'aus', 'bei', 'bin', 'bis', 'bist', 'da', 'dadurch', 'daher', 'darum', 'das', 'daß', 'dass', 'dein', 'deine', 'dem', 'den', 'der', 'des', 'dessen', 'deshalb', 'die', 'dies', 'dieser', 'dieses', 'doch', 'dort', 'du', 'durch', 'ein', 'eine', 'einem', 'einen', 'einer', 'eines', 'er', 'es', 'euer', 'eure', 'für', 'hatte', 'hatten', 'hattest', 'hattet', 'hier', 'hinter', 'ich', 'ihr', 'ihre', 'im', 'in', 'ist', 'ja', 'jede', 'jedem', 'jeden', 'jeder', 'jedes', 'jener', 'jenes', 'jetzt', 'kann', 'kannst', 'können', 'könnt', 'machen', 'mein', 'meine', 'mit', 'muß', 'mußt', 'musst', 'müssen', 'müßt', 'nach', 'nachdem', 'nein', 'nicht', 'nun', 'oder', 'seid', 'sein', 'seine', 'sich', 'sie', 'sind', 'soll', 'sollen', 'sollst', 'sollt', 'sonst', 'soweit', 'sowie', 'und', 'unser', 'unsere', 'unter', 'vom', 'von', 'vor', 'wann', 'warum', 'was', 'weiter', 'weitere', 'wenn', 'wer', 'werde', 'werden', 'werdet', 'weshalb', 'wie', 'wieder', 'wieso', 'wir', 'wird', 'wirst', 'wo', 'woher', 'wohin', 'zu', 'zum', 'zur', 'über');
-	$stopwords = array_merge($stopwords, array('seinem', 'lassen', 'sondern', 'hat', 'ihnen', 'keine', 'ihren', 'trotz', 'uns', 'wollen'));
 
+	echo 'Beispiel...<br />';
 	
-	$sg = new SchluesselwortGenerator('webseite.html');
-	$sg->setStopwords($stopwords);
-	//$sg->setStopwords('stopwords.de.txt');
-	echo $sg->keywords();
+	$sg = new SchluesselwortGenerator('webseite.txt');
+	$sg->setStopwords('stopwords.de.txt');
+	print_r( $sg->keywords() );
 	
 }
 

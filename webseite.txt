@@ -1,0 +1,1145 @@
+	<!DOCTYPE HTML>
+<html itemscope itemtype="http://schema.org/WebPage" class="" dir="ltr" lang="de">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Kinder, Jugend & Familie</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="robots" content="index,follow" />
+	
+	<meta property="og:title" content="Kinder, Jugend & Familie" />
+	<meta property="og:site_name" content="AWO Bezirksverband Weser-Ems" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="http://preview.awo-ol.de/res/img/logo-470x246.png" />
+	<meta property="og:url" content="http://preview.awo-ol.de" />
+	<meta property="og:locale" content="de_DE" />
+	<link rel="shortcut icon" href="/favicon.ico" />	<link rel="alternate" type="application/rss+xml" href="/feed.rss.php" title="AWO Newsfeed" />
+	<link rel="search" href="/opensearch.xml.php" type="application/opensearchdescription+xml" title="AWO Bezirksverband Weser-Ems" />
+	<link rel="stylesheet" type="text/css" href="/res/css/main.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/res/lib/jquery/jquery-1.11.1.min.js"><\/script>')</script>
+	<script type="text/javascript" src="/res/lib/jquery/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/res/lib/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/res/lib/magnificpopup/magnific-popup.min.js"></script>
+<script type="text/javascript" src="/res/lib/polyfills/srcset.min.js"></script>
+<script type="text/javascript" src="/res/js/infobubble.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=&amp;v=3.exp&amp;sensor=false&amp;extension=.js"></script>
+	<script type="text/javascript" src="/res/js/main.js"></script>
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="/res/lib/polyfills/html5shiv.min.js"></script>
+<script type="text/javascript" src="/res/lib/polyfills/respond.min.js"></script>
+	<![endif]-->
+			</head>
+<body class="isNotIndex">	
+	<div id="totop"></div>
+	
+			
+		<div class="sfbox">
+			<div class="sfrow content">
+				<div class="sfcol ">
+					
+					<!--div id="mobilenav" class="hidden-md hidden-lg"></div>
+					<div id="mobilesearch" class="hidden-md hidden-lg">
+						<form class="form search pull-right" method="get" name="Suche" onsubmit="" action="/suche.php"><input id="mq" placeholder="SUCHBEGRIFF" class="text" name="we_lv_search_Suche" type="text" value="" /><input type="hidden" name="we_from_search_Suche" value="1" />									<input type="submit" value="Suchen" class="submit" title="Suchen" />
+								</form>					</div-->
+					<header><div class="shadowhelper"><div class="container"><div class="inner"></div></div></div>
+<div class="container">
+	<div class="inner">
+		
+		<div class="ttab headertab">
+			<div class="trow">
+				<div class="tcol mobilehamburgerbtn">
+					<div class="inner"></div>
+				</div>
+				<div class="tcol logo">
+					<a href="/" title="AWO &middot; Home" class="iblock home"><img src="/res/img/awo.png" alt="ALT" width="190" height="70" /></a>
+				</div>
+				<div class="tcol menu">
+					
+					<nav>
+						
+
+
+<div class="cont ainer">
+	<div class="in ner">
+	
+	<div class="wrap3 ttab">		<div class="wrap2 trow">			
+			<!--div class="wrap tcol col-home">				<a href="/" class="home " title="AWO Startseite"></a>
+			</div-->
+			
+			<!--div class="wrap tcol col-hamburger">				<a class="hamburger"></a>
+			</div-->
+			
+			<div class="wrap tcol col-nav">
+				<div class="nav">					<ul class="level-1">
+						
+								<li class="">
+		<div class="inner">
+						<a href="/Pflegen-Wohnen/" title="Pflege & Wohnen">
+				Pflege & Wohnen<span class="toggle"></span>			</a>
+			<ul class="level-2">		<li class="">
+		<div class="inner">
+						<a href="/Pflege/" title="Pflege">
+				Pflege<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Pflege/Ambulante-Pflege/" title="Ambulante Pflege">
+				Ambulante Pflege			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Pflege/Tages-und-Nachtpflege.php" title="Tages- und Nachtpflege">
+				Tages- und Nachtpflege			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Pflege/Wohn-und-Pflegeeinrichtungen.php" title="Wohn- und Pflegeeinrichtungen">
+				Wohn- und Pflegeeinrichtungen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Pflegen-Wohnen/Pflegeberatung.php" title="Pflegeberatung">
+				Pflegeberatung			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Wohnen/" title="Wohnen">
+				Wohnen<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Wohnen/Betreutes-Wohnen.php" title="Betreutes Wohnen">
+				Betreutes Wohnen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Wohnen/Seniorenwohnungen.php" title="Seniorenwohnungen">
+				Seniorenwohnungen			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="current">
+		<div class="inner">
+						<a href="/Kinder-Jugend-und-Familie/" title="Kinder, Jugend & Familie">
+				Kinder, Jugend & Familie<span class="toggle"></span>			</a>
+			<ul class="level-2">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/" title="Sprache, Hören, Förderung & Therapie">
+				Sprache, Hören, Förderung & Therapie<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/" title="Sprachheilzentren">
+				Sprachheilzentren<span class="toggle"></span>			</a>
+			<ul class="level-4">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg/" title="Heilpädagogisch-Therapeutische Einrichtung Werscherberg">
+				Heilpädagogisch-Therapeutische Einrichtung Werscherberg<span class="toggle"></span>			</a>
+			<ul class="level-5">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg/Unsere_Einrichtung.php" title="Unsere Einrichtung">
+				Unsere Einrichtung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg/Schwerpunkte.php" title="Schwerpunkte unserer Arbeit">
+				Schwerpunkte unserer Arbeit			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg/Eltern.php" title="Eltern">
+				Eltern			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg/Kinder_Jugendliche.php" title="Kinder und Jugendliche">
+				Kinder und Jugendliche			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg/Kontakt.php" title="Kontakt">
+				Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Wilhelmshaven/" title="Wilhelmshaven">
+				Wilhelmshaven<span class="toggle"></span>			</a>
+			<ul class="level-5">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Wilhelmshaven/Unsere-Einrichtung.php" title="Unsere Einrichtung">
+				Unsere Einrichtung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Wilhelmshaven/Behandlung-Therapie.php" title="Behandlung/Therapie">
+				Behandlung/Therapie			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Wilhelmshaven/Qualifizierte-Fachkräfte.php" title="Qualifizierte Fachkräfte">
+				Qualifizierte Fachkräfte			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Wilhelmshaven/Der-Weg-zu-uns.php" title="Ihr Weg zu uns">
+				Ihr Weg zu uns			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Wilhelmshaven/Kontakt.php" title="Kontakt">
+				Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg-SHZ/" title="Werscherberg">
+				Werscherberg<span class="toggle"></span>			</a>
+			<ul class="level-5">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg-SHZ/Unsere-Einrichtung.php" title="Unsere Einrichtung">
+				Unsere Einrichtung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg-SHZ/Behandlung-Therapie.php" title="Behandlung/Therapie">
+				Behandlung/Therapie			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg-SHZ/Qualifizierte-Fachkräfte.php" title="Qualifizierte Fachkräfte">
+				Qualifizierte Fachkräfte			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg-SHZ/Ihr-Weg-zu-uns.php" title="Ihr Weg zu uns">
+				Ihr Weg zu uns			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Werscherberg-SHZ/Kontakt.php" title="Kontakt">
+				Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Bad-Salzdetfurth/" title="Bad Salzdetfurth">
+				Bad Salzdetfurth<span class="toggle"></span>			</a>
+			<ul class="level-5">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Bad-Salzdetfurth/Unsere-Einrichtung.php" title="Unsere Einrichtung">
+				Unsere Einrichtung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Bad-Salzdetfurth/Behandlung-Therapie.php" title="Behandlung/Therapie">
+				Behandlung/Therapie			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Bad-Salzdetfurth/Tiergestützte-Therapie.php" title="Tiergestützte Therapie">
+				Tiergestützte Therapie			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Bad-Salzdetfurth/Qualifizierte-Fachkräfte.php" title="Qualifizierte Fachkräfte">
+				Qualifizierte Fachkräfte			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Bad-Salzdetfurth/Der-Weg-zu-uns.php" title="Der Weg zu uns">
+				Der Weg zu uns			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilzentren/Bad-Salzdetfurth/Kontakt.php" title="Kontakt">
+				Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/" title="Sprachheilkindergärten">
+				Sprachheilkindergärten<span class="toggle"></span>			</a>
+			<ul class="level-4">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Nordenham/" title="Sprachheilkindergarten Nordenham">
+				Sprachheilkindergarten Nordenham<span class="toggle"></span>			</a>
+			<ul class="level-5">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Nordenham/Kontakt.php" title="Kontakt">
+				Kontakt<span class="toggle"></span>			</a>
+			<ul class="level-6">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Nordenham/test.php" title="test">
+				test			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Nordenham/Galerien.php" title="Galerie">
+				Galerie			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Cuxhaven/" title="Sprachheilkindergarten Cuxhaven">
+				Sprachheilkindergarten Cuxhaven<span class="toggle"></span>			</a>
+			<ul class="level-5">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Cuxhaven/Therapie-und_Foerderangebote.php" title="Therapie- und Förderangebote für Ihr Kind">
+				Therapie- und Förderangebote für Ihr Kind			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Cuxhaven/Team.php" title="Unser Team">
+				Unser Team			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Cuxhaven/Behandlung.php" title="Behandlung">
+				Behandlung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Cuxhaven/Ihr_Weg_zu_uns.php" title="Ihr Weg zu uns">
+				Ihr Weg zu uns			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Sprachheilkindergaerten/Cuxhaven/Kontakt.php" title="Kontakt">
+				Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Praxen-fuer-Sprachtherapie.php" title="Praxen für Sprachtherapie">
+				Praxen für Sprachtherapie			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Reha-Klinik-Werscherberg.php" title="Reha-Klinik Werscherberg">
+				Reha-Klinik Werscherberg			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Koordinierungsstellen.php" title="Koordinierungsstellen Leer, WHV,WTM">
+				Koordinierungsstellen Leer, WHV,WTM			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Burgbergschule/" title="Burgbergschule">
+				Burgbergschule<span class="toggle"></span>			</a>
+			<ul class="level-4">		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Burgbergschule/" title="Unsere Einrichtung">
+				Unsere Einrichtung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Burgbergschule/Unsere-Lernangebote.php" title="Lernangebote">
+				Lernangebote			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sprache-Hoeren-Foerderung-Therapie/Hoerbehinderung.php" title="Hörbehinderung">
+				Hörbehinderung			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/" title="Beratung">
+				Beratung<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Fruehe-Hilfen.php" title="Frühe Hilfen">
+				Frühe Hilfen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Schreibabyambulanz.php" title="Schreibabyambulanz">
+				Schreibabyambulanz			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Familienberatung.php" title="Familienberatung">
+				Familienberatung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/SPFH.php" title="SPFH">
+				SPFH			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Schwangerschaft.php" title="Schwangerschaft">
+				Schwangerschaft			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Kinderschutzfachberatung.php" title="Kinderschutzfachberatung">
+				Kinderschutzfachberatung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Partnerschaft.php" title="Partnerschaft">
+				Partnerschaft			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Gewalt.php" title="Gewalt">
+				Gewalt			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Beratung-K-J-Hilfe/Migrationsberatung.php" title="Migrationsberatung">
+				Migrationsberatung			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Freizeit/" title="Freizeit">
+				Freizeit<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Freizeit/Frisbee.php" title="Frisbee">
+				Frisbee			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Freizeit/Jugendwerk.php" title="Jugendwerk">
+				Jugendwerk			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/" title="Erziehung, Bildung, Betreuung">
+				Erziehung, Bildung, Betreuung<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/Krippen.php" title="Krippen">
+				Krippen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/Kindertagesstaetten.php" title="Kindertagesstätten">
+				Kindertagesstätten			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/Kinderhort.php" title="Kinderhort">
+				Kinderhort			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/Foerderschulen.php" title="Förderschulen">
+				Förderschulen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/Ambulante-Erziehungshilfen.php" title="Ambulante Erzieungshilfen">
+				Ambulante Erzieungshilfen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/Elternwerkstatt.php" title="Elternwerkstatt">
+				Elternwerkstatt			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/Erziehungsberatung.php" title="Erziehungsberatung">
+				Erziehungsberatung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Erziehung-Bildung-Betreuung/mobile%20Dienste.php" title="mobile Dienste">
+				mobile Dienste			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/" title="Reha & Kur">
+				Reha & Kur<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/" title="Lotte-Lemke-Haus">
+				Lotte-Lemke-Haus<span class="toggle"></span>			</a>
+			<ul class="level-4">		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/Unser-Haus.php" title="Unser Haus">
+				Unser Haus			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/Indikationen.php" title="Indikationen">
+				Indikationen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/Paedagogische-Arbeit.php" title="Pädagogische Arbeit">
+				Pädagogische Arbeit			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/Neue%20Kraefte.php" title="Neue Kräfte finden">
+				Neue Kräfte finden			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/Freizeit%20und%20Mee(h)r.php" title="Freizeit und Mee(hr)">
+				Freizeit und Mee(hr)			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/Ihr%20Weg%20zur%20Kur.php" title="Ihr Weg zur Kur">
+				Ihr Weg zur Kur			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Reha-Kur/Lotte-Lemke-Haus/Kontakt.php" title="Kontakt">
+				Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+</ul>		</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Sucht-Psychiatrie-Behinderung/" title="Sucht & Psychiatrie">
+				Sucht & Psychiatrie<span class="toggle"></span>			</a>
+			<ul class="level-2">		<li class="">
+		<div class="inner">
+						<a href="/Psychische-Erkrankungen/" title="Hilfen für Menschen mit psychischen Erkrankungen">
+				Hilfen für Menschen mit psychischen Erkrankungen<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Psychische-Erkrankungen/Ambulante-Angebote.php" title="Ambulante Angebote">
+				Ambulante Angebote			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Psychische-Erkrankungen/APP.php" title="APP">
+				APP			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Psychische-Erkrankungen/ABW.php" title="ABW">
+				ABW			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Psychische-Erkrankungen/Wohnen.php" title="Wohnen">
+				Wohnen			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Suchtberatung/" title="Suchtberatung">
+				Suchtberatung<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Suchtberatung/Looping.php" title="Looping">
+				Looping			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Suchtberatung/Praevention.php" title="Prävention">
+				Prävention			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Suchtberatung/Wohnen.php" title="Wohnen">
+				Wohnen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Menschen-mit-Behinderung/" title="Beschäftigung für Menschen mit Behinderung">
+				Beschäftigung für Menschen mit Behinderung<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Menschen-mit-Behinderung/IFD.php" title="IFD">
+				IFD			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Menschen-mit-Behinderung/Aufwind.php" title="„Aufwind“">
+				„Aufwind“			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Ueber-uns/" title="Über uns">
+				Über uns<span class="toggle"></span>			</a>
+			<ul class="level-2">		<li class="">
+		<div class="inner">
+						<a href="/Die-AWO-Weser-Ems/" title="Die AWO Weser-Ems">
+				Die AWO Weser-Ems<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Die-AWO-Weser-Ems/Geschichte-der-AWO.php" title="Geschichte der AWO">
+				Geschichte der AWO			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Die-AWO-Weser-Ems/Struktur.php" title="Struktur">
+				Struktur			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Die-AWO-Weser-Ems/Zahlen-Daten-Fakten.php" title="Zahlen, Daten, Fakten">
+				Zahlen, Daten, Fakten			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Die-AWO-Weser-Ems/Vorstand-und-Geschaeftsfuehrung.php" title="Vorstand und Geschäftsführung">
+				Vorstand und Geschäftsführung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Die-AWO-Weser-Ems/Qualitaetsmanagement.php" title="Qualitätsmanagement">
+				Qualitätsmanagement			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Die-AWO-Weser-Ems/Kontakt-Anfahrt.php" title="Kontakt &amp; Anfahrt">
+				Kontakt &amp; Anfahrt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Aktuelles-Presse/_index.php" title="Aktuelles & Presse">
+				Aktuelles & Presse<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Aktuelles-Presse/" title="Aktuelles">
+				Aktuelles			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Service/" title="Service">
+				Service<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Service/Ideen-und-Kritik.php" title="Idee und Kritik">
+				Idee und Kritik			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Service/Vorgesorgt.php" title="Vorgesorgt">
+				Vorgesorgt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/" title="AWO als Arbeitgeber">
+				AWO als Arbeitgeber<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Vereinbarkeit-Beruf-Familie.php" title="Vereinbarkeit Beruf &amp; Familie">
+				Vereinbarkeit Beruf &amp; Familie			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Eltern-%20und%20SeniorenService%20AWO.php" title="Eltern- und SeniorenService AWO">
+				Eltern- und SeniorenService AWO			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Gesundheitsmanagement.php" title="Gesundheitsmanagement">
+				Gesundheitsmanagement			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Fort-%20und%20Weiterbildung.php" title="Fort- und Weiterbildung">
+				Fort- und Weiterbildung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Ausbildung.php" title="Ausbildung">
+				Ausbildung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Praktika.php" title="Praktika">
+				Praktika			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Zusatzleistungen.php" title="Zusatzleistungen">
+				Zusatzleistungen			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Freiwilligendienste/" title="Freiwilligendienste">
+				Freiwilligendienste<span class="toggle"></span>			</a>
+			<ul class="level-4">		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Freiwilligendienste/Einsatzbereiche.php" title="Einsatzbereiche und -plätze">
+				Einsatzbereiche und -plätze			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Freiwilligendienste/BFD%20und%20FSJ%20von%20A%20bis%20Z.php" title="BFD/FSJ von A bis Z">
+				BFD/FSJ von A bis Z			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Freiwilligendienste/Bewerbung.php" title="Bewerbung">
+				Bewerbung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Freiwilligendienste/BFD%20für%20Ü%2027.php" title="Bundesfreiwilligendienst für Ü 27">
+				Bundesfreiwilligendienst für Ü 27			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Freiwilligendienste/Begleitung-Seminare.php" title="Begleitung und Seminare">
+				Begleitung und Seminare			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Freiwilligendienste/Erfahrungsberichte.php" title="Erfahrungsberichte">
+				Erfahrungsberichte			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Berufsfachschule-Logopaedie/" title="Berufsfachschule Logopädie">
+				Berufsfachschule Logopädie<span class="toggle"></span>			</a>
+			<ul class="level-4">		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Berufsfachschule-Logopaedie/Die-Ausbildung.php" title="Die Ausbildung">
+				Die Ausbildung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Berufsfachschule-Logopaedie/Bewerbungsverfahren.php" title="Bewerbungsverfahren">
+				Bewerbungsverfahren			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Berufsfachschule-Logopaedie/Kontakt.php" title="Team und Kontakt">
+				Team und Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/AWO-Stellenboerse.php" title="AWO Stellenbörse">
+				AWO Stellenbörse			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Bewerbung.php" title="Bewerbung">
+				Bewerbung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/AWO-als-Arbeitgeber/Kontakt.php" title="Kontakt">
+				Kontakt			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Engagement/" title="Engagement">
+				Engagement<span class="toggle"></span>			</a>
+			<ul class="level-3">		<li class="">
+		<div class="inner">
+						<a href="/Engagement/Mitgliedschaft.php" title="Mitgliedschaft">
+				Mitgliedschaft			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Engagement/Foerderer.php" title="Förderer">
+				Förderer			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Engagement/Freiwilliges-Engagement.php" title="Freiwilliges Engagement">
+				Freiwilliges Engagement			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Engagement/Stiftung.php" title="Stiftung">
+				Stiftung			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Engagement/Spenden.php" title="Spenden">
+				Spenden			</a>
+					</div>
+	</li>
+		<li class="">
+		<div class="inner">
+						<a href="/Engagement/Kleiderkammer.php" title="Kleiderkammer">
+				Kleiderkammer			</a>
+					</div>
+	</li>
+</ul>		</div>
+	</li>
+</ul>		</div>
+	</li>
+						
+					</ul>
+				</div>
+			</div>
+			
+							<div class="wrap tcol col-search">
+					<div class="search">
+						<div class="inner">
+							<div class="icon" title="AWO durchsuchen">Suche</div>
+							<form class="form" method="get" name="Suche" onsubmit="" action="/suche.php"><input id="q" placeholder="Suchbegriff" class="text" name="we_lv_search_Suche" type="text" value="" /><input type="hidden" name="we_from_search_Suche" value="1" /><!--
+								--><input type="submit" value="Suchen" class="submit" title="Suchen" />
+							</form>						</div>
+					</div>
+				</div>
+						
+		</div>
+	</div>
+	
+	</div>
+</div>					</nav>
+					
+				</div>
+				<div class="tcol mobilesearchbtn">
+					<div class="inner"></div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+</header>
+					
+					
+						<div class="container" id="breadcrumb">
+	<div class="row"><div class="col-md-offset-3 col-md-9">
+		<span class="sr-only">Sie sind hier: &nbsp;</span> <a href="/" title="AWO Startseite">Home</a>  &nbsp;&middot;&nbsp; <a href="/Kinder-Jugend-und-Familie/" title="Kinder, Jugend & Familie">Kinder, Jugend & Familie</a>			</div></div>
+</div>
+
+					
+					
+					
+					<main>
+<div class="container bereichsstartseite">
+	
+		<div class="bereichsteaser typ-a">
+		
+				
+						<div class="row">
+					<div class="col-md-3">
+						<div class="hidden-xs hidden-sm text"><div class="inner">»Ich bin unsere Zukunft.«</div></div>
+					</div>
+					<div class="col-md-6">
+						
+						<div class="row bb1">
+							<div class="col-md-12">
+								<div class="bild img-protect">
+									
+									<img src="/__we_thumbs__/846_1_Kind-Tablet-Zukunft.jpg" alt=" " height="300" width="570" class="img-full-responsive" />								</div>
+								<div class="text hidden-md hidden-lg"><div class="inner">»Ich bin unsere Zukunft.«</div></div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-6 bb2">
+																<a href="/Beratung-K-J-Hilfe/Familienberatung.php" title="Die Familienberatung der AWO" class="block more">
+								<div class="row">
+									<div class="col-xs-4 col-sm-3 col-md-12">
+										<div class="bild img-protect" style="background-image:url(/__we_thumbs__/853_10_Mama-Baby-isst-Brot.jpg);"><img src="/__we_thumbs__/853_3_Mama-Baby-isst-Brot.jpg" alt=" " width="270" height="200" class="img-full-responsive" /></div>
+									</div>
+									<div class="col-xs-8 col-sm-9 col-md-12">
+										<div class="title">Die Familienberatung der AWO</div>
+									</div>
+								</div>
+								</a>
+							</div>
+							<div class="col-md-6 bb3">
+																<a href="/Erziehung-Bildung-Betreuung/Kindertagesstaetten.php" title="Unsere Kindertagesstätten" class="block more">
+								<div class="row">
+									<div class="col-xs-4 col-sm-3 col-md-12">
+										<div class="bild img-protect hidden-xs hidden-sm" style="background-image:url(/__we_thumbs__/852_13_Buntstifte-malen.jpg);"><img src="/__we_thumbs__/852_13_Buntstifte-malen.jpg" alt=" " width="324" height="204" class="img-full-responsive" /></div>
+										<div class="bild img-protect hidden-md hidden-lg" style="background-image:url(/__we_thumbs__/852_10_Buntstifte-malen.jpg);"><img src="/__we_thumbs__/852_10_Buntstifte-malen.jpg" alt=" " width="324" height="240" class="img-full-responsive" /></div>
+									</div>
+									<div class="col-xs-8 col-sm-9 col-md-12">
+										<div class="title">Unsere Kindertagesstätten</div>
+									</div>
+								</div>
+								</a>
+							</div>
+						</div>
+						
+					</div>
+					<div class="col-md-3 bb4">
+												<a href="/Erziehung-Bildung-Betreuung/Foerderschulen.php" title="Jedes Kind ist anders – unsere Förderschulen" class="block more">
+							<div class="row">
+								<div class="col-xs-4 col-sm-3 col-md-12">
+									<div class="bild img-protect hidden-xs hidden-sm" style="background-image:url(/__we_thumbs__/850_14_Maedchen-guckt-keck.jpg);"><img src="/__we_thumbs__/850_14_Maedchen-guckt-keck.jpg" alt=" " width="324" height="264" class="img-full-responsive" /></div>
+									<div class="bild img-protect hidden-md hidden-lg" style="background-image:url(/__we_thumbs__/850_10_Maedchen-guckt-keck.jpg);"><img src="/__we_thumbs__/850_10_Maedchen-guckt-keck.jpg" alt=" " width="324" height="240" class="img-full-responsive" /></div>
+								</div>
+								<div class="col-xs-8 col-sm-9 col-md-12">
+									<div class="title">Jedes Kind ist anders – unsere Förderschulen</div>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+					
+	</div>
+	
+	<div class="row">
+		<div class="col-md-offset-3 col-md-6">
+			<h1 class="box title maintitle">Kinder, Jugend & Familie – die AWO kümmert sich</h1><br />		</div>
+	</div>
+	
+	<div class="row">
+		<div class="hidden-xs hidden-sm col-md-3">
+			<div id="bside">
+				<nav>
+																							<div class="inner">
+			<ul>
+									<li class="current"><a href="/Kinder-Jugend-und-Familie/">Übersicht</a></li>
+						<li>
+			<a href="/Sprache-Hoeren-Foerderung-Therapie/" title="Sprache, Hören, Förderung & Therapie">Sprache, Hören, Förderung & Therapie</a>
+					</li>
+			<li>
+			<a href="/Beratung-K-J-Hilfe/" title="Beratung">Beratung</a>
+					</li>
+			<li>
+			<a href="/Freizeit/" title="Freizeit">Freizeit</a>
+					</li>
+			<li>
+			<a href="/Erziehung-Bildung-Betreuung/" title="Erziehung, Bildung, Betreuung">Erziehung, Bildung, Betreuung</a>
+					</li>
+			<li>
+			<a href="/Reha-Kur/" title="Reha & Kur">Reha & Kur</a>
+					</li>
+				</ul>
+		</div>
+					</nav>
+			</div>
+		</div>
+		<article class="col-md-6">
+
+						<section class="row box text">
+			<div class="col-xs-12">
+				<p class="intro box">„Kinder sind unsere Zukunft“ – dieser Satz hat trotz des demografischen Wandels und der zunehmenden Alterung der Gesellschaft nichts von seinem Wahrheitsgehalt verloren. Für uns bei der AWO bildet er die Triebkraft, den Generationen von morgen und übermorgen die bestmöglichen Chancen auf ein lebenswertes Leben zukommen zu lassen.</p><div class="text"><p align="left">Gemeinsam mit ihnen und ihren Familien wollen wir Hindernisse aus dem Weg räumen, Hürden abbauen und Chancengleichheit herstellen. Kinder und Jugendliche haben keine Ungerechtigkeiten verdient. Wir machen keine Unterschiede, fragen nicht nach Herkunft oder Glaubensrichtung, sondern öffnen unsere Türen für alle.</p>
+<p align="left">Wenn immer sie Unterstützung brauchen, finden auch Jugendliche und Eltern bei der AWO verständnisvolle Gesprächs- und Handlungspartner. Unsere Beratungs-, Förder- und Bildungsprogramme geben dem Motto „Kinder sind unsere Zukunft“ einen neuen Sinn.</p></div>			</div>
+		</section>
+	  
+	
+		<script>
+						var GoogleMaps = {
+				//elemid: 'gmap-canvas',
+				Adressen: [{"WE_ID":2,"Titel":"Sprachheilkindergarten Nordenham","Website":"\/Sprache-Hoeren-Foerderung-Therapie\/Sprachheilkindergaerten\/Nordenham","Strasse":"K\u00f6rnerstra\u00dfe 31","PLZ":"26954","Ort":"Nordenham","Telefon":"04731 40 28","Fax":"04731 2 20 61","Email":"info@spkg-nrdh.awo-ol.de","StandortKoordinaten":"53.48969, 8.48240","ll":["53.48969","8.48240"]},{"WE_ID":17,"Titel":"Sprachheilzentrum mit Sprachheilkindergarten Bad Salzdetfurth","Website":"\/Sprache-Hoeren-Foerderung-Therapie\/Sprachheilzentren\/Bad-Salzdetfurth","Strasse":"Burgweg 1","PLZ":"31162","Ort":"Bad Salzdetfurth","Telefon":"05063 27 90","Fax":"05063 2 79 37","Email":"info@spz-bsd.awo-ol.de","StandortKoordinaten":"52.06756, 10.00918","ll":["52.06756","10.00918"]},{"WE_ID":18,"Titel":"Sprachheilzentrum Werscherberg mit Sprachheilkindergarten ","Website":"\/Sprache-Hoeren-Foerderung-Therapie\/Sprachheilzentren\/Werscherberg-SHZ","Strasse":"Marie-Juchacz-Stra\u00dfe 2","PLZ":"49143","Ort":"Bissendorf","Telefon":"05402 40 50","Fax":"05402 59 82","Email":"info@werscherberg.awo-ol.de","StandortKoordinaten":"","ll":false},{"WE_ID":19,"Titel":"Sprachheilzentrum mit Sprachheilkindergarten Wilhelmshaven","Website":"\/Sprache-Hoeren-Foerderung-Therapie\/Sprachheilzentren\/Wilhelmshaven","Strasse":"Masurenstra\u00dfe 17","PLZ":"26388","Ort":"Wilhelmshaven","Telefon":"04421 91 30 10","Fax":"04421 5 10 19","Email":"info@spz-whv.awo-ol.de","StandortKoordinaten":"53.58199, 8.08998","ll":["53.58199","8.08998"]},{"WE_ID":23,"Titel":"Sprachheilkindergarten Cuxhaven","Website":"\/Sprache-Hoeren-Foerderung-Therapie\/Sprachheilkindergaerten\/Cuxhaven","Strasse":"Strichweg 193","PLZ":"27476","Ort":"Cuxhaven","Telefon":"04721 4 94 64","Fax":"04721 66 65 73","Email":"info@spkg-cux.awo-ol.de","StandortKoordinaten":"","ll":false},{"WE_ID":29,"Titel":"Burgbergschule","Website":"\/Sprache-Hoeren-Foerderung-Therapie\/Burgbergschule","Strasse":"Vor der Burg 4","PLZ":"31162","Ort":"Bad Salzdetfurth","Telefon":"05063 41 66","Fax":"05063 40 45","Email":"info@burgbergschule.awo-ol.de","StandortKoordinaten":"","ll":false},{"WE_ID":43,"Titel":"\u201eLotte-Lemke-Haus\u201c Gesundheitszentrum der AWO f\u00fcr M\u00fctter und Kinder","Website":"\/Reha-Kur\/Lotte-Lemke-Haus","Strasse":"Lammertsh\u00f6rn 19 b","PLZ":"26427","Ort":"Esens","Telefon":"04971 20 10","Fax":"04971 20 14 10","Email":"info@ghz-esens.awo-ol.de","StandortKoordinaten":"53.67498, 7.58167","ll":["53.67498","7.58167"]},{"WE_ID":75,"Titel":"Sozialstation der AWO im \u201eHaus am Fl\u00f6tenteich\u201c","Website":"\/Pflege","Strasse":"Nadorster Stra\u00dfe 298\u2013302","PLZ":"26125","Ort":"Oldenburg","Telefon":"0441 93 39 20","Fax":"0441 9 33 92 16","Email":"info@sozst-ol.awo-ol.de","StandortKoordinaten":"","ll":false},{"WE_ID":122,"Titel":"AWO Management & Service Weser-Ems GmbH","Website":"\/Wohnen","Strasse":"Klingenbergstra\u00dfe 73","PLZ":"26133","Ort":"Oldenburg","Telefon":"04 41\/48 01-241","Fax":"","Email":"","StandortKoordinaten":"53.10932, 8.22421","ll":["53.10932","8.22421"]},{"WE_ID":83,"Titel":"Heilp\u00e4dagogische therapeutische Einrichtung Werscherberg\/station\u00e4re Jugendhilfe","Website":"\/Sprache-Hoeren-Foerderung-Therapie\/Sprachheilzentren\/Werscherberg","Strasse":"Marie-Juchacz-Stra\u00dfe 1-2","PLZ":"49143","Ort":"Bissendorf","Telefon":"05402 4 05 88","Fax":"05402 59 82","Email":"info-hpte@werscherberg.awo-ol.de","StandortKoordinaten":"52.24302, 8.19323","ll":["52.24302","8.19323"]},{"WE_ID":109,"Titel":"Berufsfachschule f\u00fcr Logop\u00e4die im Sprachheilzentrum Oldenburg","Website":"\/AWO-als-Arbeitgeber\/Berufsfachschule-Logopaedie","Strasse":" Klingenbergstra\u00dfe 73 a","PLZ":"26133","Ort":"Oldenburg","Telefon":"04 41\/94 00 04-0","Fax":"04 41\/94 00 04-25","Email":"info@logopaedie-ol.de","StandortKoordinaten":"53.10978, 8.22437","ll":["53.10978","8.22437"]},{"WE_ID":112,"Titel":"Beratungsstelle f\u00fcr Freiwilligendienste","Website":"\/AWO-als-Arbeitgeber\/Freiwilligendienste","Strasse":"M\u00fchlenstra\u00dfe 80","PLZ":"26180","Ort":"Rastede","Telefon":"0 44 02\/59 52-183","Fax":"","Email":"info@freiwilligendienste-awo.de","StandortKoordinaten":"53.24777, 8.21172","ll":["53.24777","8.21172"]},{"WE_ID":121,"Titel":"AWO Bezirksverband Weser-Ems e. V.","Website":"\/AWO-als-Arbeitgeber","Strasse":"Klingenbergstra\u00dfe 73","PLZ":"26133","Ort":"Oldenburg","Telefon":"04 41\/48 01-0","Fax":"","Email":"inof@awo-ol.de","StandortKoordinaten":"53.10932, 8.22421","ll":["53.10932","8.22421"]},{"WE_ID":123,"Titel":"AWO Wohnen & Pflegen Weser-Ems","Website":"\/Pflege","Strasse":"Klingenbergstra\u00dfe 73","PLZ":"26133","Ort":"Oldenburg","Telefon":"04 41\/48 01-216","Fax":"","Email":"","StandortKoordinaten":"53.10932, 8.22421","ll":["53.10932","8.22421"]},{"WE_ID":124,"Titel":"AWO Kinder, Jugend & Familie Weser-Ems","Website":"\/Kinder-Jugend-und-Familie","Strasse":"Klingenbergstra\u00dfe 73","PLZ":"26133","Ort":"Oldenburg","Telefon":"04 41\/48 01-xxx","Fax":"","Email":"info@kjf.awo-ol.de","StandortKoordinaten":"53.10932, 8.22421","ll":["53.10932","8.22421"]}],
+				zoom: 8,
+				styles: [
+		{"featureType":"landscape.natural","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#D2EDF0"}]},
+		{"featureType":"poi","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#B1E7ED"}]},
+		{"featureType":"road","elementType":"geometry","stylers":[{"lightness":100},{"visibility":"simplified"}]},
+		{"featureType":"road","elementType":"labels","stylers":[{"visibility":"on"}]},
+		{"featureType":"transit.line","elementType":"geometry","stylers":[{"visibility":"on"},{"lightness":700}]},
+		{"featureType":"water","elementType":"all","stylers":[{"color":"#66CFD9"}]}
+	],
+				icon: {url:"/res/img/marker.png"},
+				ll: [53.48969,8.48240]
+			};
+		</script>
+	
+		<section class="box einrichtungen">
+			<div class="form-title">Einrichtungen</div>
+			<div class="karte">
+				<div id="gmap-canvas" class="gmaps-canvas"></div>
+			</div>
+			
+			<div class="regionen">
+				<a href="/Ueber-uns/Unsere-Einrichtungen.php" title="Einrichtungen nach Region" class="regionenfinden">
+					Einrichtungen nach<br /> Region finden
+				</a>
+			</div>
+		</section>
+	
+		
+		
+		</article>
+	</div>
+</div>
+
+<div id="mehrContainerMobile">
+	<div id="closeButton">
+		<a id="closeButtonLink" href="" title="schliessen">x</a>
+	</div>
+</div>
+	<div id="mehrtextMobile">
+			</div>
+</main>
+					
+				</div>
+			</div>
+			<div class="sfrow footer">
+				<div class="sfcol">
+					
+					<footer><div class="container">
+	
+	<div class="ttab">
+		<div class="trow">
+			<div class="tcol logo">
+				<a href="/" title="AWO &middot; Home"><img src="/res/img/awo-weiss.png" alt=" " width="160" height="58" /></a>
+			</div>
+			<div class="tcol hlinks">
+				<span class="fb"><a href="https://www.facebook.com/awo.oldenburg"><img src="/res/img/facebook-circle.png" alt=" " height="33" width="33" /></a> &nbsp;&nbsp;&nbsp;</span>
+				<a href="/Service/Kontakt.php" title="Kontakt">Kontakt</a> &nbsp;&middot;&nbsp;
+				<a href="/Service/Impressum.php" title="Impressum">Impressum</a> &nbsp;&middot;&nbsp;
+				<a href="/Service/Datenschutz.php" title="Datenschutz">Datenschutz</a>
+			</div>
+		</div>
+	</div>
+	
+</div></footer>
+					
+				</div>
+			</div>
+		</div>
+		
+	</body>
+</html>
