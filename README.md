@@ -1,4 +1,4 @@
-# mysql_cron_select
+# Schlüsselwort-Generator
 
 
 Idea in progress... not finished.
