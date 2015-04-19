@@ -1,4 +1,5 @@
 # Schlüsselwort-Generator
 
+Deutsche Schlüsselwörter generieren.
 
-Idea in progress... not finished.
+*In progress... not finished.*
