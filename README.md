@@ -1,5 +1,5 @@
 # Schlüsselwort-Generator
 
-Deutsche Schlüsselwörter generieren.
+PHP-Klasse, um deutsche Schlüsselwörter zu generieren.
 
 *In progress... not finished.*
